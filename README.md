@@ -1,34 +1,42 @@
 # Digital-Literacy-project
-Digital Literacy Project
- Student Details
+
 
 Name: Anshika Singh
+
 Registration Number: 25BCE10770
+
 Branch: B.Tech CSE Core
+
 Year: First Year
+
 
  Project Overview
 
+
 This project is based on digital literacy and its importance in today’s world. As a student digital ambassador, my role was to understand and share how digital tools can be used safely, effectively, and responsibly.
+
 
 Through this project, I worked on different tasks like creating an infographic, building my digital portfolio, exploring coding platforms, learning email etiquette, and understanding cybercrime awareness. Each task helped me gain practical knowledge and improve my digital skills.
 
-🧩 Tasks Completed
-🎨 Task 1: Digital Literacy Infographic
+
+
+Task 1: Digital Literacy Infographic
 
 In this task, I created an infographic using Canva to explain digital literacy, its importance, safe internet practices, and useful tools for students.
 📁 Folder: task-1-presentation/
 
-🌐 Task 2: Digital Portfolio
+ Task 2: Digital Portfolio
 
 I created and updated my profiles on platforms like GitHub, LinkedIn, and Kaggle to build my professional online presence.
 📁 Folder: task-2-portfolio/
+
 
 💻 Task 3: Platforms Exploration
 
 I solved a beginner-level problem on HackerRank and created a Google Form quiz on digital literacy awareness.
 📁 Folder: task-3-platforms/
 🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLScJjcFw_rlxJtEy1SsTyuHwYwGJn1-_KOY--CP8MUDKN6ye6w/viewform?usp=header
+
 
  Task 4: Email Etiquette
 
