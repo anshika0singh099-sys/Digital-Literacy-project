@@ -27,7 +27,7 @@ For this task, I created an infographic using Canva. The main goal was to spread
 
 While making the infographic, I tried to keep the design simple so that anyone can easily understand it. I also used icons and colors to make it visually appealing. This task was interesting because it allowed me to be creative while also sharing useful information.
 
-📁 Folder: task-1-presentation/
+ Folder: task-1-presentation/
 
 ## Task 2: Digital Portfolio
 
@@ -35,7 +35,7 @@ In this task, I created and updated my profiles on platforms like GitHub, Linked
 
 I added my basic details and educational information and understood how these profiles can help in the future for internships and career opportunities. This task made me realize that building a digital identity from the beginning is very important.
 
-📁 Folder: task-2-portfolio/
+ Folder: task-2-portfolio/
 
 ## Task 3: Platforms Exploration
 
@@ -45,7 +45,7 @@ In the second part, I created a Google Form quiz based on digital literacy. The 
 
 This task was useful because it introduced me to both technical and collaborative tools that I can use in my academic work.
 
-📁 Folder: task-3-platforms/
+Folder: task-3-platforms/
 
 
 🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScJjcFw_rlxJtEy1SsTyuHwYwGJn1-_KOY--CP8MUDKN6ye6w/viewform?usp=header
@@ -58,7 +58,7 @@ Earlier, I didn’t pay much attention to how emails should be written, but thro
 
 This task improved my communication skills and made me more aware of how to present myself professionally.
 
-📁 Folder: task-4-email-etiquette/
+Folder: task-4-email-etiquette/
 
 ## Task 5: Cybercrime Awareness
 
@@ -68,7 +68,7 @@ While researching this topic, I realized how important it is to stay alert while
 
 This task made me more careful and aware of online risks, and it will definitely help me avoid such situations in the future.
 
-📁 Folder: task-5-cybercrime/
+ Folder: task-5-cybercrime/
 
 ## Project Report
 
