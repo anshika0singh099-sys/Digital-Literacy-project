@@ -17,7 +17,6 @@ This project is based on understanding digital literacy and how important it is 
 
 In today’s time, most of our work — whether it is studying, communicating, or submitting assignments — depends on digital platforms. Through this project, I got the opportunity to not only learn about these tools but also use them practically. Each task in this project focused on a different aspect of digital literacy, such as awareness, online presence, communication, and cyber safety.
 
-Overall, this project helped me understand how to be more responsible and confident while using digital technologies.
 
 
 
@@ -25,7 +24,7 @@ Overall, this project helped me understand how to be more responsible and confid
 
 For this task, I created an infographic using Canva. The main goal was to spread awareness about digital literacy among students. In my design, I included topics like what digital literacy means, why it is important, some basic internet safety tips, and useful tools that students can use in their daily academic work.
 
-While making the infographic, I tried to keep the design simple so that anyone can easily understand it. I also used icons and colors to make it visually appealing. This task was interesting because it allowed me to be creative while also sharing useful information.
+While making the infographic, I tried to keep the design simple so that anyone can easily understand it. I also used icons and colors to make it visually appealing..
 
  Folder: task-1-presentation/
 
@@ -33,7 +32,8 @@ While making the infographic, I tried to keep the design simple so that anyone c
 
 In this task, I created and updated my profiles on platforms like GitHub, LinkedIn, and Kaggle. Before this, I had very little idea about maintaining a professional online presence. While working on this task, I learned how these platforms are used by students and professionals to showcase their skills and achievements.
 
-I added my basic details and educational information and understood how these profiles can help in the future for internships and career opportunities. This task made me realize that building a digital identity from the beginning is very important.
+I added my basic details and educational information and understood how these profiles can help in the future for internships and career opportunities.
+This task made me realize that building a digital identity from the beginning is very important.
 
  Folder: task-2-portfolio/
 
